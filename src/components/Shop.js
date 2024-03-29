@@ -2,10 +2,10 @@ import React from "react";
 
 const Shop = () => {
   return (
-      <div>
-          <h2>Buy Abibas Shoes at 50Rs.</h2>
+    <div>
+      <h2 className="my-3">Deposit/Withdraw Money</h2>
       <button className="btn btn-primary mx-2">-</button>
-      Buy this Item
+      Update Balance
       <button className="btn btn-primary mx-2">+</button>
     </div>
   );
